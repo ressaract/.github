@@ -5,5 +5,5 @@ Ressaract is a dynamic software company specializing in educational technology. 
 
 ### Get Involved
 Interested in contributing to our mission? We'd love to hear from you!  
-📩 Email: [wanna@kth.se](mailto:wanna@kth.se)  
+📩 Email: [contact@ressaract.com](mailto:contact@ressaract.com)  
 🔗 LinkedIn: [Ressaract on LinkedIn](https://www.linkedin.com/company/ressaract/)
